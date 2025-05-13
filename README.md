@@ -75,4 +75,3 @@ The program consists of three main functions:
 2. `get_valid_filename()`: Ensures the user provides a valid, readable file
 3. `main()`: Orchestrates the workflow and provides user interaction
 
-The error handling is implemented using try-except blocks that catch specific exceptions and provide clear error messages to guide the user.
